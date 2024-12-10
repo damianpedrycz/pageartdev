@@ -25,6 +25,7 @@ const ExampleJsx = () => {
     <article className="prose-m-none">
       <h1>
         <Balancer>
+          tes
           Hello World, welcome to the Next.js and WordPress Starter by{" "}
           <a href="https://9d8.dev">9d8</a>.
         </Balancer>
